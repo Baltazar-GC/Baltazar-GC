@@ -9,6 +9,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+<br>
 <table align="center">
   <tr>
       <td align="center" width="96">
